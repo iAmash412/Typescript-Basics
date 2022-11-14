@@ -1,2 +1,2 @@
 # Typescript-Basics
-Learning the basics of type script!
+Learning the basics of typescript!
